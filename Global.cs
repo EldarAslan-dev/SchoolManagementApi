@@ -1,0 +1,12 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.EntityFrameworkCore.SqlServer;
+global using Microsoft.EntityFrameworkCore;
+global using SchoolManagementApi.Entities;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.AspNetCore.OpenApi;
+global using SchoolManagementApi.Data;
+global using Swashbuckle.AspNetCore;
